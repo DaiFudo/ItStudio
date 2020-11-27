@@ -1,0 +1,5 @@
+.container {
+  min-width: 1141px;
+  margin: 0 auto;
+}
+@import "blocks/header";
